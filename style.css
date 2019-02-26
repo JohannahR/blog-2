@@ -1,0 +1,42 @@
+#Header{
+    text-align: center;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 10px darkgrey;
+    color: lightblue;
+    background: gray;
+    border-radius: 10px;
+    margin-bottom: 2%;
+} 
+
+#container{
+    display: flex;
+}
+form{
+    width:50%;
+    background: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    border: solid gray 2px;
+    box-shadow: 1px 1px 10px darkgrey;
+    border-radius: 10px;
+    justify-content: 
+    
+}
+#video{
+    width:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+video{
+    box-shadow: 1px 1px 10px darkgrey;
+    border-radius: 10px;
+}
+@media (min-width: 425px){
+
+}
+@media (min-width: 1024px){
+
+}
